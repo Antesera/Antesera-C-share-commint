@@ -9,7 +9,7 @@
     </div>
     <div style="text-align:center">
         <h1>
-            <a href="SignIn.html">Find the Sign In sheet here!</a>
+            <a href="SignIn.html">Find the Sign In sheet here! </a>
         </h1>
     </div>
     <div class="row">
